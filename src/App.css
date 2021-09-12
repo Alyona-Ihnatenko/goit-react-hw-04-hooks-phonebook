@@ -7,7 +7,7 @@
 }
 
 .App-link {
-  color: #61dafb;
+  color: #ff6b0a;
 }
 
 h1,
@@ -28,7 +28,7 @@ ul {
   min-height: 400px;
   margin: 0 auto;
   padding: 30px;
-  border: 1px solid teal;
+  border: 1px solid #ff6b0a;
 }
 .mainTitle {
   text-align: center;
